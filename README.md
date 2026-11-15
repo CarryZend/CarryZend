@@ -24,24 +24,13 @@
 
 ### 📌 代表项目
 
-> 取材自本机 `D:\Codes` 实际落地项目。
+> 这里只列出可公开的通用工具与学习类项目；多年间参与的财税、票据类业务系统工作内容不在此公开。
 
-**财税 / 票据** · 团队一直在做的核心业务线
-
-- **发票验真 / 报销系统（益帮帮）** — 发票验真接口 + 报销系统 + 软著文档生成小程序
-- **宜盟电子收据** — 电子收据整体方案（合同发起、电子签名、发票设计）
-- **VerifyTheInvoice 发票验真** — .NET WebApi + 微信小程序 + Swagger + 数据库升级
-- **确认助手** — 电子单据 / 工资条发放与确认（PC 后台 + .NET Core API + 小程序）
-- **宜盟内容管理系统** — DTcms 改造版，扩展 OAuth / Payment / Weixin / API 模块
-
-**独立工具 / 小程序**
-
+- **[ServerMonitor](https://github.com/CarryZend/ServerMonitor)** — Windows 服务器监控程序（CPU / 内存 / 硬盘监控，超阈值邮件预警，Windows 服务 + 界面）。C# / .NET。
 - **DotNetKit（dotnettools）** — 面向 .NET 开发者的在线工具站（正则、JSON 格式化）· [GitHub](https://github.com/CarryZend/dotnettools)
 - **ExamSystem 在线考试系统** — C# 在线考试 · [Gitee](https://gitee.com/CarryZend/ExamSystem)
 - **FaceIdentityRecognition 人脸识别** — C# 人脸识别 · [Gitee](https://gitee.com/CarryZend/FaceIdentityRecognition)
 - **词根词缀背单词 App（word-root）** — 词根词缀记忆法 · [Gitee](https://gitee.com/CarryZend/word-root)
-- **ServerMonitor 硬盘检查通知** — Windows 服务实时监控、超阈值邮件预警
-- **短链助手 · 秒哒红包 · 忘事克星 · quickly-soften 快软著** — 微信小程序系列
 
 ---
 
